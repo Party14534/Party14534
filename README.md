@@ -8,7 +8,7 @@
 
 Welcome to my profile!
 
-My name is Zachariah Dellimore, a passionate software developer based in Richmond, Virginia. I think coding is most fun when I'm learning somehting new and pushing myself beyond my limits. I'm currently searching for new grad software engineering positions!
+My name is Zachariah Dellimore, a passionate software developer based in Richmond, Virginia. I think coding is most fun when I'm learning somehting new and pushing myself beyond my limits.
 
 [Check out my portfolio!](https://zachariahdellimore.netlify.app/)
 
